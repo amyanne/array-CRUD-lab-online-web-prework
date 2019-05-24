@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   add = ["1", "2"]
-  add.unshift("arrays")
+  add "arrays"
   
 end
 
